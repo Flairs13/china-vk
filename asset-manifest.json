@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/china-vk/static/css/main.fe78fc2d.chunk.css",
+    "main.js": "/china-vk/static/js/main.946092f4.chunk.js",
+    "main.js.map": "/china-vk/static/js/main.946092f4.chunk.js.map",
+    "runtime-main.js": "/china-vk/static/js/runtime-main.ff2dbf61.js",
+    "runtime-main.js.map": "/china-vk/static/js/runtime-main.ff2dbf61.js.map",
+    "static/js/2.91ca4909.chunk.js": "/china-vk/static/js/2.91ca4909.chunk.js",
+    "static/js/2.91ca4909.chunk.js.map": "/china-vk/static/js/2.91ca4909.chunk.js.map",
+    "index.html": "/china-vk/index.html",
+    "precache-manifest.641c4ecb2f5198e315349b5b20d4cea7.js": "/china-vk/precache-manifest.641c4ecb2f5198e315349b5b20d4cea7.js",
+    "service-worker.js": "/china-vk/service-worker.js",
+    "static/css/main.fe78fc2d.chunk.css.map": "/china-vk/static/css/main.fe78fc2d.chunk.css.map",
+    "static/js/2.91ca4909.chunk.js.LICENSE.txt": "/china-vk/static/js/2.91ca4909.chunk.js.LICENSE.txt",
+    "static/media/Preloader.svg": "/china-vk/static/media/Preloader.f685b5dd.svg",
+    "static/media/camera.d39285db.svg": "/china-vk/static/media/camera.d39285db.svg",
+    "static/media/close-cross.6724e280.svg": "/china-vk/static/media/close-cross.6724e280.svg",
+    "static/media/color-palette.a5815099.svg": "/china-vk/static/media/color-palette.a5815099.svg",
+    "static/media/facesad.png": "/china-vk/static/media/facesad.b04d99fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff2dbf61.js",
+    "static/js/2.91ca4909.chunk.js",
+    "static/css/main.fe78fc2d.chunk.css",
+    "static/js/main.946092f4.chunk.js"
+  ]
+}
