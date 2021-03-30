@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/china-vk/static/css/main.d1edefed.chunk.css",
-    "main.js": "/china-vk/static/js/main.f6e28a61.chunk.js",
-    "main.js.map": "/china-vk/static/js/main.f6e28a61.chunk.js.map",
+    "main.js": "/china-vk/static/js/main.9d02aecf.chunk.js",
+    "main.js.map": "/china-vk/static/js/main.9d02aecf.chunk.js.map",
     "runtime-main.js": "/china-vk/static/js/runtime-main.d447c65a.js",
     "runtime-main.js.map": "/china-vk/static/js/runtime-main.d447c65a.js.map",
     "static/js/2.f062dd51.chunk.js": "/china-vk/static/js/2.f062dd51.chunk.js",
@@ -25,7 +25,7 @@
     "static/js/10.9557f40f.chunk.js": "/china-vk/static/js/10.9557f40f.chunk.js",
     "static/js/10.9557f40f.chunk.js.map": "/china-vk/static/js/10.9557f40f.chunk.js.map",
     "index.html": "/china-vk/index.html",
-    "precache-manifest.a2d85a4cbe64f4bb50159d7119881eaa.js": "/china-vk/precache-manifest.a2d85a4cbe64f4bb50159d7119881eaa.js",
+    "precache-manifest.32e9e91ba4f5369b081cc9a36b6d67e9.js": "/china-vk/precache-manifest.32e9e91ba4f5369b081cc9a36b6d67e9.js",
     "service-worker.js": "/china-vk/service-worker.js",
     "static/css/4.f4c15bb9.chunk.css.map": "/china-vk/static/css/4.f4c15bb9.chunk.css.map",
     "static/css/main.d1edefed.chunk.css.map": "/china-vk/static/css/main.d1edefed.chunk.css.map",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.d447c65a.js",
     "static/js/2.f062dd51.chunk.js",
     "static/css/main.d1edefed.chunk.css",
-    "static/js/main.f6e28a61.chunk.js"
+    "static/js/main.9d02aecf.chunk.js"
   ]
 }
