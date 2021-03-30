@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/china-vk/login/precache-manifest.3799d0c4a82e359855fedc7e52292815.js"
+  "/china-vk/login/precache-manifest.0dcc6a42eefe74b551c188b4001d47b6.js"
 );
 
 self.addEventListener('message', (event) => {

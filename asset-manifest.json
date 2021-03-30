@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/china-vk/login/static/css/main.fe78fc2d.chunk.css",
-    "main.js": "/china-vk/login/static/js/main.d1af7e26.chunk.js",
-    "main.js.map": "/china-vk/login/static/js/main.d1af7e26.chunk.js.map",
+    "main.js": "/china-vk/login/static/js/main.81e9db1d.chunk.js",
+    "main.js.map": "/china-vk/login/static/js/main.81e9db1d.chunk.js.map",
     "runtime-main.js": "/china-vk/login/static/js/runtime-main.6ae35494.js",
     "runtime-main.js.map": "/china-vk/login/static/js/runtime-main.6ae35494.js.map",
     "static/js/2.8b425997.chunk.js": "/china-vk/login/static/js/2.8b425997.chunk.js",
     "static/js/2.8b425997.chunk.js.map": "/china-vk/login/static/js/2.8b425997.chunk.js.map",
     "index.html": "/china-vk/login/index.html",
-    "precache-manifest.3799d0c4a82e359855fedc7e52292815.js": "/china-vk/login/precache-manifest.3799d0c4a82e359855fedc7e52292815.js",
+    "precache-manifest.0dcc6a42eefe74b551c188b4001d47b6.js": "/china-vk/login/precache-manifest.0dcc6a42eefe74b551c188b4001d47b6.js",
     "service-worker.js": "/china-vk/login/service-worker.js",
     "static/css/main.fe78fc2d.chunk.css.map": "/china-vk/login/static/css/main.fe78fc2d.chunk.css.map",
     "static/js/2.8b425997.chunk.js.LICENSE.txt": "/china-vk/login/static/js/2.8b425997.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.6ae35494.js",
     "static/js/2.8b425997.chunk.js",
     "static/css/main.fe78fc2d.chunk.css",
-    "static/js/main.d1af7e26.chunk.js"
+    "static/js/main.81e9db1d.chunk.js"
   ]
 }
