@@ -1,0 +1,31 @@
+.wrapper {
+
+}
+
+.avatar {
+    padding: 10px;
+}
+.avatar img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.description {
+    margin-left: 40px;
+    margin-top: 30px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+}
+.description span {
+    font-weight: normal;
+    margin-left: 5px;
+}
+
+.descriptionItem {
+    margin-bottom: 20px;
+}
+
+.descriptionItem:last-child {
+    margin-bottom: 0;
+}
